@@ -1,0 +1,6 @@
+{
+  "name": "AI Offline Creative Suite",
+  "description": "An all-in-one AI-powered creative workspace featuring browser-native image editing, video frame builders, rich-text document editors, offline layout publishing, and advertising mockups that function perfectly both online and offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
